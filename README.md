@@ -4,9 +4,9 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/explooosion/gitbook-boilerplate)
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/explooosion/gitbook-boilerplate)
 
-### Documentation
+### Online Demo
 
-👉 [Start Reading](https://github.com/explooosion/gitbook-boilerplate)
+👉 [Start Reading](http://robby570.tw/gitbook-boilerplate/)
 
 ### Global Installation
 
