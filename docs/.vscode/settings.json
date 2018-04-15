@@ -1,0 +1,4 @@
+{
+    "vscode-imgur.client_id": "your-imgur-id",
+    "vscode-imgur.preferUserUpload": false
+}
