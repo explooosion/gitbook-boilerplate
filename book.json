@@ -1,0 +1,44 @@
+{
+    "title": "Gitbook-Boilerplate",
+    "description": "Please Fork this repo if you want to start your own book with Gitbook",
+    "language": "en",
+    "plugins": [
+        "disqus",
+        "github",
+        "editlink",
+        "prism",
+        "-highlight",
+        "splitter",
+        "sitemap"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "your-disqus-id"
+        },
+        "github": {
+            "url": "https://github.com/explooosion/gitbook-boilerplate"
+        },
+        "editlink": {
+            "base": "https://github.com/explooosion/gitbook-boilerplate/master",
+            "label": "Edit"
+        },
+        "sitemap": {
+            "hostname": "https://github.com/explooosion/gitbook-boilerplate"
+        },
+        "sharing": {
+            "facebook": true,
+            "google": true,
+            "twitter": true,
+            "instapaper": false,
+            "weibo": false,
+            "vk": false,
+            "all": [
+                "facebook",
+                "google",
+                "twitter",
+                "weibo",
+                "instapaper"
+            ]
+        }
+    }
+}
