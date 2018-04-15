@@ -13,14 +13,14 @@
     ],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "your-disqus-id"
+            "shortName": "gitbook-boilerplate"
         },
         "github": {
             "url": "https://github.com/explooosion/gitbook-boilerplate"
         },
         "editlink": {
             "base": "https://github.com/explooosion/gitbook-boilerplate/master",
-            "label": "Edit"
+            "label": "EDIT"
         },
         "sitemap": {
             "hostname": "https://github.com/explooosion/gitbook-boilerplate"
