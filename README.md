@@ -40,7 +40,7 @@ If you want to watch files, please remove the folder `_book` after running the s
 You can put images to [imgur](https://imgur.com/), please install [vscode-imgur](https://github.com/MaxfieldWalker/vscode-imgur).
 > Add your imgur key to `.vscode` / `settings.json`
 
-> Auto Key `Ctrl` + `Alt` + `V`
+> Hotkey `Ctrl` + `Alt` + `V`
 
 ### Build To HTML
 
@@ -57,4 +57,9 @@ Using `pdf` to export the PDF format.
 ```bash
 npm run pdf
 ```
-> If your os is Windows, please download [Calibre](https://calibre-ebook.com/download_windows).
+> If your OS is Windows, please download [Calibre](https://calibre-ebook.com/download_windows).
+
+### Use Disqus
+
+Input your shortname into `book.json`,
+then you can use the [disqus](https://disqus.com/) plugin.

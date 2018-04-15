@@ -4,7 +4,7 @@
 
 #### Usage
 
-Color Code Reference: [Semantic-UI](https://semantic-ui.com/usage/theming.html#sitewide-defaults)
+Color: [Semantic-UI](https://semantic-ui.com/usage/theming.html#sitewide-defaults)
 
 - Demo
 <div class="note">default</div>
